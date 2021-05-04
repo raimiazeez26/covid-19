@@ -1,2 +1,2 @@
-# covid-19
-Ustacky Capstone Project on COVID-19 data analysis for Nigeria
+# Nigeria-COVID-19-Data-Analysis-Using-Python
+Data Scientist Microdegree Capstone Project
